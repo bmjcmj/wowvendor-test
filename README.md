@@ -8,5 +8,5 @@
 5. Результат записывается каждый раз - когда включен авто-режим и когда идёт управление с клавиатуры (можно переключать режимы в процессе игры).
 6. Архитектура script.js может быть слегка запутана, думаю, можно сделать элегантнее и короче, но я не стал переписывать, поскольку не обладал для этого временем.
 
-<img width="500" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin1.jpg">
+<img width="500" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin.jpg">
 <img width="500" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin2.jpg">
