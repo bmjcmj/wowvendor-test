@@ -15,7 +15,6 @@ function connect() {
      $mysqli = connect();
      $result = mysqli_query($mysqli, $query);
      mysqli_close( $mysqli );
-     return $result;
  }
 
 $rock_position = $_POST["rockPosition"];
