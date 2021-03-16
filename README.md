@@ -1,5 +1,5 @@
-<img width="200" src="https://raw.githubusercontent.com/wowvendor/wowvendor-junior-test/97bf30dc6a091261bd6fc6409e9c8e2791c3d745/images/donut.svg">\
-\
+<img width="200" src="https://raw.githubusercontent.com/wowvendor/wowvendor-junior-test/97bf30dc6a091261bd6fc6409e9c8e2791c3d745/images/donut.svg">
+
 ### Комментарии к тестовому заданию.
 1. Я не использовал jQuery и Ajax и отправлял данные на сервер другими методами, поскольку подумал, что лучше в рамках тестового задания использовать нативный js.
 2. Вверху страницы реализован таймер, который показывает, сколько времени длится забег.
@@ -8,5 +8,5 @@
 5. Результат записывается каждый раз - когда включен авто-режим и когда идёт управление с клавиатуры (можно переключать режимы в процессе игры).
 6. Архитектура script.js может быть слегка запутана, думаю, можно сделать элегантнее и короче, но я не стал переписывать, поскольку не обладал для этого временем.
 
-<img width="200" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin1.jpg">\
-<img width="200" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin2.jpg">\
+<img width="500" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin1.jpg">
+<img width="500" src="https://github.com/bmjcmj/wowvendor-test/blob/main/images/scrin2.jpg">
